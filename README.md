@@ -1,4 +1,4 @@
-# Create the content for the Terraform project README
+# Terraform project README
 terraform_project_content = """
 # Terraform Project for AWS Infrastructure
 
